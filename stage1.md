@@ -44,3 +44,15 @@ Immediate Next Steps:
   - Build Stage 2 quantitative scenario model in Excel.
   - Analyze comparative net proceeds for each strategy.
 Responsibility: Treasury & Risk Team
+
+References
+
+CBH. (2024). Foreign Exchange Risk Management: Accounting Strategies.
+
+Bauer College, UH. (2024). Measuring FX Exposure.
+
+François Masquelier. (2024). Pros and Cons of Hedging Forex.
+
+EBC. (2025). What Is Hedging in Forex and When to Use It.
+
+Nomentia. (2025). FX risk management: from FX risk exposure to hedging.

@@ -11,13 +11,16 @@ Version: 1
 LLM Used: Perplexity
 
 
-Executive Summary
+Executive Summary:
+
 Our firm faces a $20 million receivable in euros, due in one year. This exposure subjects our future USD proceeds to risk from EUR/USD exchange rate fluctuations. By strategically assessing FX risk and hedging alternatives, we aim to secure predictable outcomes and protect profit margins. Hedging methods—forward contracts, money market hedges, and options—can reduce uncertainty, though each carries trade-offs. Next, we will quantify projected scenarios and build a spreadsheet model to guide decision-making.
 
-Background & Objectives
+Background & Objectives:
+
 Our upcoming foreign-currency receivable arises from sales to European clients, invoiced at €20 million and scheduled for payment in one year. FX transaction exposure is relevant: if the euro depreciates against the dollar, our actual USD receipts could be significantly less than anticipated, impacting profitability and forecasting. The primary objective is to stabilize expected USD proceeds and minimize adverse impacts from currency volatility. Secondary goals include supporting accurate financial planning and minimizing execution costs.
 
-Methods
+Methods:
+
 We will analyze the following three hedge families:
 Forward contract: Locks in a fixed exchange rate (e.g., 1.0935 EURUSD one-year forward) for USD proceeds.
   - Pros: Certainty on cash flows, simple execution.ebc​

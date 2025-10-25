@@ -54,6 +54,12 @@ Includes formulas for option payoffs, discounting, and net USD results.
 
 Summarizes hedge costs and outcome comparisons in a table."
 
+Final Analysis and reccomendation:
+
+The exposure is a €20,000,000 EUR receivable due in one year; risk arises if the EUR depreciates against the USD, reducing proceeds for the manufacturer.
+A forward contract would guarantee USD proceeds at known cost, options provide upside if EUR appreciates (for a premium), and no hedge leaves the firm exposed to currency swings.
+Excel modeling will determine the most effective strategy; typically, forward hedging is recommended for predictable cash flows unless option costs are unusually low or upside retention is prioritized.
+
 
 References
 

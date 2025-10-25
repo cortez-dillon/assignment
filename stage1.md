@@ -1,3 +1,11 @@
+Created by: Dillon Cortez
+Updated by: Dillon Cortez	
+Date Created: 10/22/2025
+Date Updated: 10/24/2025
+Version: 1
+LLM Used: Perplexity
+
+
 Executive Summary
 Our firm faces a $20 million receivable in euros, due in one year. This exposure subjects our future USD proceeds to risk from EUR/USD exchange rate fluctuations. By strategically assessing FX risk and hedging alternatives, we aim to secure predictable outcomes and protect profit margins. Hedging methods—forward contracts, money market hedges, and options—can reduce uncertainty, though each carries trade-offs. Next, we will quantify projected scenarios and build a spreadsheet model to guide decision-making.
 Background & Objectives

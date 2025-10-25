@@ -45,6 +45,16 @@ Immediate Next Steps:
   - Analyze comparative net proceeds for each strategy.
 Responsibility: Treasury & Risk Team
 
+Prompt Engineering for Spreadsheet
+"Given: 1) EUR receivable amount and timing, 2) spot, forward, and option FX rates/premiums, and 3) interest rates for USD/EUR—generate an Excel sheet that:
+
+Calculates USD proceeds for no hedge, forward hedge, put and call option hedges.
+
+Includes formulas for option payoffs, discounting, and net USD results.
+
+Summarizes hedge costs and outcome comparisons in a table."
+
+
 References
 
 CBH. (2024). Foreign Exchange Risk Management: Accounting Strategies.
